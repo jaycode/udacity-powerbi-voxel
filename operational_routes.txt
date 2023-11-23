@@ -1,0 +1,85 @@
+a	b	c	d	e	f
+					
+					
+		Routes for Haulage Trucks 2022			
+index	dest_1	dest_2	route_group	distances	PK routes_id
+0.0	XHRT361-Ingreso	XHRT859-Ingreso	3.0	20.0	XHRT361-Ingreso_to_XHRT859-Ingreso
+					
+					
+					
+1.0	XHRT361-Ingreso	XHRT467-Ingreso	1.0	10.0	XHRT361-Ingreso_to_XHRT467-Ingreso
+					
+					
+					
+2.0	XHRT361-Ingreso	XHRT914-Ingreso	4.0	35.0	XHRT361-Ingreso_to_XHRT914-Ingreso
+					
+					
+					
+3.0	XHRT361-Ingreso	XHRT807-Ingreso	2.0	15.0	XHRT361-Ingreso_to_XHRT807-Ingreso
+					
+					
+					
+4.0	XHRT859-Ingreso	XHRT361-Ingreso	3.0	20.0	XHRT859-Ingreso_to_XHRT361-Ingreso
+					
+					
+					
+5.0	XHRT859-Ingreso	XHRT467-Ingreso	6.0	14.0	XHRT859-Ingreso_to_XHRT467-Ingreso
+					
+					
+					
+6.0	XHRT859-Ingreso	XHRT914-Ingreso	10.0	42.0	XHRT859-Ingreso_to_XHRT914-Ingreso
+					
+					
+					
+7.0	XHRT859-Ingreso	XHRT807-Ingreso	8.0	23.0	XHRT859-Ingreso_to_XHRT807-Ingreso
+					
+					
+					
+8.0	XHRT467-Ingreso	XHRT361-Ingreso	1.0	10.0	XHRT467-Ingreso_to_XHRT361-Ingreso
+					
+					
+					
+9.0	XHRT467-Ingreso	XHRT859-Ingreso	6.0	14.0	XHRT467-Ingreso_to_XHRT859-Ingreso
+					
+					
+					
+10.0	XHRT467-Ingreso	XHRT914-Ingreso	7.0	8.0	XHRT467-Ingreso_to_XHRT914-Ingreso
+					
+					
+					
+11.0	XHRT467-Ingreso	XHRT807-Ingreso	5.0	7.0	XHRT467-Ingreso_to_XHRT807-Ingreso
+					
+					
+					
+12.0	XHRT914-Ingreso	XHRT361-Ingreso	4.0	35.0	XHRT914-Ingreso_to_XHRT361-Ingreso
+					
+					
+					
+13.0	XHRT914-Ingreso	XHRT859-Ingreso	10.0	42.0	XHRT914-Ingreso_to_XHRT859-Ingreso
+					
+					
+					
+14.0	XHRT914-Ingreso	XHRT467-Ingreso	7.0	8.0	XHRT914-Ingreso_to_XHRT467-Ingreso
+					
+					
+					
+15.0	XHRT914-Ingreso	XHRT807-Ingreso	9.0	11.0	XHRT914-Ingreso_to_XHRT807-Ingreso
+					
+					
+					
+16.0	XHRT807-Ingreso	XHRT361-Ingreso	2.0	15.0	XHRT807-Ingreso_to_XHRT361-Ingreso
+					
+					
+					
+17.0	XHRT807-Ingreso	XHRT859-Ingreso	8.0	23.0	XHRT807-Ingreso_to_XHRT859-Ingreso
+					
+					
+					
+18.0	XHRT807-Ingreso	XHRT467-Ingreso	5.0	7.0	XHRT807-Ingreso_to_XHRT467-Ingreso
+					
+					
+					
+19.0	XHRT807-Ingreso	XHRT914-Ingreso	9.0	11.0	XHRT807-Ingreso_to_XHRT914-Ingreso
+					
+					
+					

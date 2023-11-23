@@ -1,0 +1,21 @@
+Location|elevation difference|route_group|grades
+XHRT361-Ingreso_to_XHRT859-Ingreso|92.74525875316873|3.0|3: Very Rocky Gravel
+XHRT859-Ingreso_to_XHRT361-Ingreso|101.8073311736478|3.0|3: Very Rocky Gravel
+XHRT361-Ingreso_to_XHRT467-Ingreso|109.55476566965419|1.0|3: Very Rocky Gravel
+XHRT467-Ingreso_to_XHRT361-Ingreso|96.54030312936044|1.0|3: Very Rocky Gravel
+XHRT361-Ingreso_to_XHRT914-Ingreso|103.5593957677852|4.0|2: Semi Rocky Gravel
+XHRT914-Ingreso_to_XHRT361-Ingreso|101.06740745141953|4.0|2: Semi Rocky Gravel
+XHRT361-Ingreso_to_XHRT807-Ingreso|98.76130856603254|2.0|3: Very Rocky Gravel
+XHRT807-Ingreso_to_XHRT361-Ingreso|109.21067579069329|2.0|3: Very Rocky Gravel
+XHRT859-Ingreso_to_XHRT467-Ingreso|99.83525164431754|6.0|1: Smooth Gravel
+XHRT467-Ingreso_to_XHRT859-Ingreso|103.96002965249856|6.0|1: Smooth Gravel
+XHRT859-Ingreso_to_XHRT914-Ingreso|98.89326641186331|10.0|3: Very Rocky Gravel
+XHRT914-Ingreso_to_XHRT859-Ingreso|105.08674476313959|10.0|3: Very Rocky Gravel
+XHRT859-Ingreso_to_XHRT807-Ingreso|102.3862838829451|8.0|3: Very Rocky Gravel
+XHRT807-Ingreso_to_XHRT859-Ingreso|94.7138245914565|8.0|3: Very Rocky Gravel
+XHRT467-Ingreso_to_XHRT914-Ingreso|100.36624566921786|7.0|2: Semi Rocky Gravel
+XHRT914-Ingreso_to_XHRT467-Ingreso|109.55855890510817|7.0|2: Semi Rocky Gravel
+XHRT467-Ingreso_to_XHRT807-Ingreso|106.51643016728708|5.0|3: Very Rocky Gravel
+XHRT807-Ingreso_to_XHRT467-Ingreso|95.68541856835247|5.0|3: Very Rocky Gravel
+XHRT914-Ingreso_to_XHRT807-Ingreso|97.3516418428699|9.0|3: Very Rocky Gravel
+XHRT807-Ingreso_to_XHRT914-Ingreso|101.1881574870474|9.0|3: Very Rocky Gravel
